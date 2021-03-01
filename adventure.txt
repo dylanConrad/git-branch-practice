@@ -1,4 +1,4 @@
-**alternate new line for testing.  Made locally.
+**This is the resolved line
 A list of musicians I'd like to hear:
 Jimi Hendrix
 Pink Floyd
