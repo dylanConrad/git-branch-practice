@@ -1,4 +1,4 @@
-This is a new line for testing!
+**This is the resolved line
 A list of musicians I'd like to hear:
 Jimi Hendrix
 Pink Floyd
